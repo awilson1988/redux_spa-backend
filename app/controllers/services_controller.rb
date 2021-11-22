@@ -4,4 +4,9 @@ class ServicesController < ApplicationController
         services = Service.all 
         render json: services
     end
+
+    def show 
+        service = Service.find(params[:id])
+        render json: service, serializer: ServiceShowSerializer
+    end
 end
