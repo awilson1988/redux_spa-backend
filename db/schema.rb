@@ -26,6 +26,7 @@ ActiveRecord::Schema.define(version: 2021_12_08_000219) do
     t.string "type_of_service"
     t.string "price"
     t.string "duration"
+    t.string "benefits"
     t.string "image_url"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false

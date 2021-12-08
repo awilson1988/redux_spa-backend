@@ -4,6 +4,7 @@ class CreateServices < ActiveRecord::Migration[6.1]
       t.string :type_of_service
       t.string :price
       t.string :duration
+      t.string :benefits
       t.string :image_url
 
       t.timestamps
