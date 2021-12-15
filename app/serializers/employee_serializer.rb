@@ -1,3 +1,3 @@
 class EmployeeSerializer < ActiveModel::Serializer
-  attributes :id, :name, :title, :bio, :education, :image_url
+  attributes :id, :name, :title, :image_url
 end
