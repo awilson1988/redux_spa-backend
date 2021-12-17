@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :comments
   resources :employees
   resources :users, only: [:create]
   resources :services, only: [:index, :show]
