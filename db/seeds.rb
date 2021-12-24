@@ -24,8 +24,8 @@
 
 # Service.create(type_of_service: "Exfoliation Treatment", price: "$110", duration: "60 Minutes", benefits: "This facial utilizes Tourmaline Charged system to refine your skins texture, reduce the appearance of fine lines, discoloration, and pore size revealing a more even, radiant complexion.", image_url: "https://goodspaguide.co.uk/images/uploads/Features/Resized_for_new_site_/mens-spa-quesitons.jpg")
 
-# Employee.create(name: "Amanda Wilson", title: "Massage Therapist", bio: "Amanda has been massaging since 2015. Her area of focus is Deep tissue, trigger point, and fire cupping.", education: "The Aveda Institute of Denver", image_url: "https://media.istockphoto.com/photos/beautiful-masseuse-working-at-a-spa-picture-id695685942?k=20&m=695685942&s=612x612&w=0&h=5sRoSWCphBNWD3p15cW2BFpBgHCwnmZM_g6ch2eI12U=" )
+# Employee.create(name: "Amanda Wilson", title: "Massage Therapist", bio: "Amanda has been massaging since 2015. Her area of focus is Deep tissue, trigger point, and fire cupping.", education: "The Aveda Institute of Denver", image_url: "https://media.istockphoto.com/photos/beautiful-masseuse-working-at-a-spa-picture-id695685942?k=20&m=695685942&s=612x612&w=0&h=5sRoSWCphBNWD3p15cW2BFpBgHCwnmZM_g6ch2eI12U=")
 
-# Employee.create(name: "Tony the Tiger", title: "Massage Therapist", bio: "Tony has been making people FEEEL GREAT since 1952.", education: "The Pacific Northwest Massage Academy", image_url: "https://static.wikia.nocookie.net/p__/images/9/9b/Tony.gif/revision/latest/top-crop/width/360/height/360?cb=20120624225612&path-prefix=protagonist")
+# Employee.create(name: "Jane Smith", title: "Massage Therapist", bio: "Jane has been making people FEEEL GREAT since 2000.", education: "The Pacific Northwest Massage Academy", image_url: "https://media.istockphoto.com/photos/portrait-of-a-business-owner-working-at-a-spa-picture-id1126310650?k=20&m=1126310650&s=612x612&w=0&h=YQIh49OAHAiF9nRVcyQAfpmMxsBKqIygAc2PHPe4B8M=")
 
 # User.create(username: "SonnyD", password: "test")
