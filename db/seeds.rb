@@ -29,3 +29,11 @@
 # Employee.create(name: "Jane Smith", title: "Massage Therapist", bio: "Jane has been making people FEEEL GREAT since 2000.", education: "The Pacific Northwest Massage Academy", image_url: "https://media.istockphoto.com/photos/portrait-of-a-business-owner-working-at-a-spa-picture-id1126310650?k=20&m=1126310650&s=612x612&w=0&h=YQIh49OAHAiF9nRVcyQAfpmMxsBKqIygAc2PHPe4B8M=")
 
 # User.create(username: "SonnyD", password: "test")
+
+# Employee.create(name: "Steven Carington", title: "Massage Therapist", bio: "Steven is very passionate about Sports Massage and fitness.", education: "Bodymechanics School of Massage", image_url: "https://cdn.massagemag.com/wordpress/wp-content/uploads/maleMT-AdobeStock_88104951.jpg")
+
+# Employee.create(name: "Larry Hands", title: "Massage Therapist", bio: "Larry has been in the industry since 1980 and is familiar with all types of Massage and bodywork.", education: "Massage Therapy Institue", image_url: "https://cdn.massagemag.com/wordpress/wp-content/uploads/Male_Therapist.jpg")
+
+# Employee.create(name: "", title: "", bio: "", education: "", image_url: "")
+
+# Employee.create(name: "", title: "", bio: "", education: "", image_url: "")
